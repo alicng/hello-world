@@ -1,1 +1,3 @@
-# java-jenkins-EC2
+# maven-project
+
+Simple Maven Project
